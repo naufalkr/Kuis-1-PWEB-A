@@ -1,2 +1,1 @@
-# Tugas-3-PWEB-A
-# Kuis-1-PWEB-A
+# Kuis-1-Pemrograman-Web-A
